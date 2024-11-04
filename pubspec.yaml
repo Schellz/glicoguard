@@ -1,0 +1,41 @@
+name: glicoguard
+description: "Controle a sua glicemia de uma forma simples!"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.0.0+4     
+  path: ^1.8.0          
+  excel: ^2.0.0
+  path_provider: ^2.0.11  
+  open_file: ^3.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+  permission_handler: ^10.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/lists.png
+    - assets/icon/sino.png
+    - assets/icon/download.png
+    - assets/icon/trash.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/logo.png"  
+  remove_alpha_ios: true  
