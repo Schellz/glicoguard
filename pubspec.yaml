@@ -32,7 +32,6 @@ flutter:
     - assets/icon/lists.png
     - assets/icon/sino.png
     - assets/icon/download.png
-    - assets/icon/trash.png
 
 flutter_launcher_icons:
   android: true
