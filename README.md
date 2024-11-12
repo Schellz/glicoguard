@@ -41,6 +41,10 @@ Para instalar o GlicoGuard a partir do APK:
 - Possibilidade de exportar relatórios em outros formatos de arquivo.
 - Disponibilização do aplicativo nas lojas Google Play e Apple Store.
 
+## Links
+
+- Link de download do APK: https://drive.google.com/file/d/1-13hyYp06GO5S6eNE93LOcWLcN4IWpkW/view?usp=sharing
+
 
 ## Contato
 
