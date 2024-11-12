@@ -31,7 +31,7 @@ Atualmente, o GlicoGuard pode ser instalado apenas via APK e ainda não está di
 
 Para instalar o GlicoGuard a partir do APK:
 
-1. Baixe o arquivo APK.
+1. Baixe o arquivo APK: https://drive.google.com/file/d/1-13hyYp06GO5S6eNE93LOcWLcN4IWpkW/view?usp=sharing
 2. Ative a opção "Fontes desconhecidas" nas configurações do seu dispositivo.
 3. Abra o arquivo APK e siga as instruções para instalação.
 
@@ -40,11 +40,6 @@ Para instalar o GlicoGuard a partir do APK:
 - Implementação de lembretes para a hora exata de tomar os medicamentos.
 - Possibilidade de exportar relatórios em outros formatos de arquivo.
 - Disponibilização do aplicativo nas lojas Google Play e Apple Store.
-
-## Links
-
-- Link de download do APK: https://drive.google.com/file/d/1-13hyYp06GO5S6eNE93LOcWLcN4IWpkW/view?usp=sharing
-
 
 ## Contato
 
